@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import pyuv
-from .session import Session
 
 
 """ Base TCP server """
